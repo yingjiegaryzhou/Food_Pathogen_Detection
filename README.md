@@ -16,14 +16,14 @@ We propose using machine learning methods to tackle this problem. This repositor
 
 The Listeria monocytogenes dataset was downloaded on Oct 23, 2022. 
 
-- Both raw and intermediate data sets are documented under the [data](https://github.com/yinggz/Foodborne_Pathogen_Detection/tree/main/data) folder.
+- Both raw and intermediate data sets are documented under the [data](https://github.com/yingjiegaryzhou/Food_Pathogen_Detection/tree/main/data) folder.
 
-- Code and preprocessing for the EDA and Level 1 Isolation Source Analysis can be found in under the [Code/DataClean](https://github.com/yinggz/Foodborne_Pathogen_Detection/tree/main/code/DataClean) folder.
+- Code and preprocessing for the EDA and Level 1 Isolation Source Analysis can be found in under the [Code/DataClean](https://github.com/yingjiegaryzhou/Food_Pathogen_Detection/tree/main/code/DataClean) folder.
 
-- Preprocessing for the sensitivity analysis for the Level 2 Food Categorization Groups are located in the [Code/DataClean/Level_2](https://github.com/yinggz/Foodborne_Pathogen_Detection/tree/main/code/DataClean/Level_2) folder.
+- Preprocessing for the sensitivity analysis for the Level 2 Food Categorization Groups are located in the [Code/DataClean/Level_2](https://github.com/yingjiegaryzhou/Food_Pathogen_Detection/tree/main/code/DataClean/Level_2) folder.
 
-- Code for models and analysis are under the [Code/Models](https://github.com/yinggz/Foodborne_Pathogen_Detection/tree/main/code/Models) folder. The neural net code is in a Jupyter Notebook under [result](https://github.com/yinggz/Foodborne_Pathogen_Detection/tree/main/result).
+- Code for models and analysis are under the [Code/Models](https://github.com/yingjiegaryzhou/Food_Pathogen_Detection/tree/main/code/Models) folder. The neural net code is in a Jupyter Notebook under [result](https://github.com/yingjiegaryzhou/Food_Pathogen_Detection/tree/main/result).
 
-- All results for both the primary analysis and sensitivity analysis are found in the [result](https://github.com/yinggz/Foodborne_Pathogen_Detection/tree/main/result) folder. Supplementary Material is found under "supplementary".
+- All results for both the primary analysis and sensitivity analysis are found in the [result](https://github.com/yingjiegaryzhou/Food_Pathogen_Detection/tree/main/result) folder. Supplementary Material is found under "supplementary".
 
 
